@@ -8,3 +8,5 @@ www.pnas.org/cgi/doi/10.1073/pnas.1821123116
 DOI:
 
 https://doi.org/10.5281/zenodo.2586976
+
+<a href="https://zenodo.org/badge/latestdoi/139550958"><img src="https://zenodo.org/badge/139550958.svg" alt="DOI"></a>
